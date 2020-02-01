@@ -5,7 +5,7 @@ Deliverables:
 * One Jupyter Notebook that has both development/exploration and final figures for PowerPoint
 * Output PNGs of all major graphics
 
-Changes:
+Change log:
 * Updated all figures to save files (png)
 * Moved 'Observations' to after the figures (prev. were before the figures)
 * Changed markdown style for some non-markdown columns, some markdown columns
